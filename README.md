@@ -8,3 +8,7 @@ This repo reatures
 * `bandit` for security audits
 * `pytest` for testing framework
 * `notebook` pre-installed
+
+## TODO
+* merge `.flake8` into `pyproject.toml` once package supports it
+* delete `PYTHONPATH` from `.env` when vscode gets PEP-582 support
